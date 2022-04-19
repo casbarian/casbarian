@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @casbarian (aka Adam Casbarian)
+Hello!  My name is Adam Casbarian ( @casbarian )
 - I am a high school mathematics and computer science teacher!
-- 👀 I’m interested in ... programming with Javascript and Python
-- 🌱 I’m currently learning ... Java and Mobile App Development
+- I began teaching Javascript and Python in 2020!
+- I’m currently learning Java and Mobile App Development in 2022!
 
 <!---
 casbarian/casbarian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
